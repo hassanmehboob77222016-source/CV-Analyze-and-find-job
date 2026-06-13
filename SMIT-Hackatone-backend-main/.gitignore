@@ -1,0 +1,18 @@
+venv/
+.venv/
+node_modules/
+__pycache__/
+*.pyc
+.env
+dist/
+build/
+*.pkl
+*.pt
+*.bin
+*.zip
+
+# Project-specific
+uploads/
+*.pdf
+*.docx
+.DS_Store

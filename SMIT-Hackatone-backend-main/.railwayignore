@@ -1,0 +1,14 @@
+venv/
+.venv/
+node_modules/
+.git/
+__pycache__/
+*.pyc
+.env
+uploads/
+data/
+models/
+*.zip
+*.pkl
+*.pt
+frontend/
